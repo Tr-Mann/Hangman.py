@@ -1,0 +1,1 @@
+first.py is my first python project, it is a simple hangman game which I did since I've made a very similar project in c++. This was a quick project to simply learn the syntax of python since I haven't used it before now.
